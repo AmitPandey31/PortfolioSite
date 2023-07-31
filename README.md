@@ -10,7 +10,7 @@ high-lighting my skills and passion as a software developer. Each equipped with 
 <img width="1065" alt="PortfolioSite" src="https://github.com/AmitPandey31/PortfolioSite/assets/88220698/233da297-2be9-435b-a080-7cc340b619e7">
 
 ### Mobile View -
-<img width="450" alt="PortfolioSiteMobileView" src="https://github.com/AmitPandey31/PortfolioSite/assets/88220698/f2d43b2d-a8f9-4f80-8798-8cbd5014a10d">
+<img width="350" height="700" alt="PortfolioSiteMobileView" src="https://github.com/AmitPandey31/PortfolioSite/assets/88220698/f2d43b2d-a8f9-4f80-8798-8cbd5014a10d">
 
 ## Deployment Link -
 https://amitpandey-portfolio.netlify.app/
